@@ -1,2 +1,2 @@
 # testrepo
-It's a markdwon file of this repository.
+It's for learning using jupter notebook.
