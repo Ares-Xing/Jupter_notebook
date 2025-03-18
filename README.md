@@ -1,2 +1,2 @@
 # testrepo
-It's for learning using jupter notebook.
+It's fjupyter notebook fundamental knowledge.
